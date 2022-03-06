@@ -1,0 +1,13 @@
+.Content-time{
+    background-color: rgb(252, 1, 1);
+    width: 1200px;
+    height: 300px;
+    /* border-radius: 50%; */
+    color: rgb(255, 251, 251);
+    font-size: 200px;
+   margin-top: 150px;
+   margin-left: 80px;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}

@@ -1,0 +1,32 @@
+.content-list{
+    border: 1px solid black;
+    
+}
+.content-srch{
+    margin: 20px;
+}
+.content-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+    padding:50px;
+}
+.Content-img{
+    width:100px;
+        height:250px;
+        padding:20px;
+        border-radius: 25px !important;
+}
+.content-card-head{
+    margin: 10px;
+    background-color: rgb(223, 221, 217) !important;
+    /* padding: 10px; */
+    box-shadow: 5px 5px 10px black ;
+}
+.content-desc{
+    text-align: left;
+}
+.Content-card-body{
+    background-color: rgb(163, 162, 160);
+}

@@ -1,0 +1,8 @@
+.signal{
+    border: 2px solid skyblue;
+    width: 200px;
+    height: 240px;
+    margin-left: 600px;
+    margin-top: 30px;
+    border-radius: 50%;
+}
