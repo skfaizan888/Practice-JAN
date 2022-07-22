@@ -2,10 +2,13 @@
 // import { Classes } from "./Components/ClassComponents/Classes";
 // import { Navbar } from "react-bootstrap";
 import "./App.css"
-import Apitask from "./Components/API TASK/Apitask";
-import Counts from "./Components/Counter Task/Counts";
+import Color from "./Components/Color/Color";
+import FackApi from "./Components/Fack API/FackApi";
+// import Apitask from "./Components/API TASK/Apitask";
+// import Counts from "./Components/Counter Task/Counts";
+// import CounterParent from "./Components/Counter3Compo/CounterParent";
 // import Api from "./Compo2/Api";
-// import Times from "./Components/Date & Time/Times";
+import Times from "./Components/Date & Time/Times";
 // import Parent1 from "./Components/Task/Parent1";
 // import { TimersApp } from "./Components/Timer/TImersApp";
 // import { TimerController } from "./Components/TimerDesing/NewTime";
@@ -36,7 +39,11 @@ function App() {
       {/* <Parent1 /> */}
       {/* <Times /> */}
       {/* <Counts /> */}
-      <Apitask />
+      {/* <Apitask /> */}
+      {/* <CounterParent /> */}
+      {/* <FackApi /> */}
+      <Color />
+
     </div>
   )
 }

@@ -14,7 +14,7 @@ const Times = () => {
   setInterval(UpdateTime, 1000);
   return (
     <div>
-      <h2> {currentTime} </h2>
+      <h2 className="Content-time"> {currentTime} </h2>
       {/* <h2> {date} </h2> */}
     </div>
   );
